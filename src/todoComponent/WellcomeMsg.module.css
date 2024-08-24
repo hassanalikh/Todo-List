@@ -1,0 +1,11 @@
+.WellcomMsg{
+    text-align: center;
+    margin-top: 50px;
+    width: 30%;
+    padding: 10px;
+    border-radius: 200px;
+    justify-content: center;
+    background-color: rgb(23, 237, 215);
+    color: rgb(240, 30, 222) ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

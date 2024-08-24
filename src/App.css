@@ -1,38 +1,33 @@
-.App {
-  text-align: center;
+.food-list{
+    background-color: rgb(20, 218, 119);
+    padding: 14px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+/* todo-list css */
+h1{
+    text-align: center;
+    font-size: 45px;
+    margin: 10px;
+    font-weight: 700;
+}
+input{
+    width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.todo-container{
+    
+    margin-top: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.items-container{
+   
+    text-align: left;
+    
 }
-
-.App-link {
-  color: #61dafb;
+.my_row{
+    margin:10px 5px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.my-Btn{
+    min-width: 70px;
 }
